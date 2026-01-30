@@ -1,0 +1,17 @@
+/ws/install/pose_demo/lib/pose_demo/pose_publisher
+/ws/install/pose_demo/lib/pose_demo/pose_subscriber
+/ws/install/pose_demo/share/ament_index/resource_index/package_run_dependencies/pose_demo
+/ws/install/pose_demo/share/ament_index/resource_index/parent_prefix_path/pose_demo
+/ws/install/pose_demo/share/pose_demo/environment/ament_prefix_path.sh
+/ws/install/pose_demo/share/pose_demo/environment/ament_prefix_path.dsv
+/ws/install/pose_demo/share/pose_demo/environment/path.sh
+/ws/install/pose_demo/share/pose_demo/environment/path.dsv
+/ws/install/pose_demo/share/pose_demo/local_setup.bash
+/ws/install/pose_demo/share/pose_demo/local_setup.sh
+/ws/install/pose_demo/share/pose_demo/local_setup.zsh
+/ws/install/pose_demo/share/pose_demo/local_setup.dsv
+/ws/install/pose_demo/share/pose_demo/package.dsv
+/ws/install/pose_demo/share/ament_index/resource_index/packages/pose_demo
+/ws/install/pose_demo/share/pose_demo/cmake/pose_demoConfig.cmake
+/ws/install/pose_demo/share/pose_demo/cmake/pose_demoConfig-version.cmake
+/ws/install/pose_demo/share/pose_demo/package.xml

@@ -1,0 +1,6 @@
+Invoking command in '/ws/build/pose_demo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /ws/src/pose_demo -DCMAKE_INSTALL_PREFIX=/ws/install/pose_demo
+Invoked command in '/ws/build/pose_demo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /ws/src/pose_demo -DCMAKE_INSTALL_PREFIX=/ws/install/pose_demo
+Invoking command in '/ws/build/pose_demo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /ws/build/pose_demo -- -j16 -l16
+Invoked command in '/ws/build/pose_demo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /ws/build/pose_demo -- -j16 -l16
+Invoking command in '/ws/build/pose_demo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /ws/build/pose_demo
+Invoked command in '/ws/build/pose_demo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /ws/build/pose_demo

@@ -1,0 +1,11 @@
+/ws/build/pose_demo/CMakeFiles/uninstall.dir
+/ws/build/pose_demo/CMakeFiles/pose_demo_uninstall.dir
+/ws/build/pose_demo/CMakeFiles/pose_publisher.dir
+/ws/build/pose_demo/CMakeFiles/pose_subscriber.dir
+/ws/build/pose_demo/CMakeFiles/test.dir
+/ws/build/pose_demo/CMakeFiles/edit_cache.dir
+/ws/build/pose_demo/CMakeFiles/rebuild_cache.dir
+/ws/build/pose_demo/CMakeFiles/list_install_components.dir
+/ws/build/pose_demo/CMakeFiles/install.dir
+/ws/build/pose_demo/CMakeFiles/install/local.dir
+/ws/build/pose_demo/CMakeFiles/install/strip.dir
