@@ -1,4 +1,4 @@
-FROM ros:jazzy-ros-base
+FROM osrf/ros:jazzy-desktop
 
 ENV DEBIAN_FRONTEND=noninteractive \
     LANG=C.UTF-8 \
